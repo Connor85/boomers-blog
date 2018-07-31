@@ -1,0 +1,30 @@
+* {
+  background: lightgray;
+}
+
+footer {
+  text-align: center;
+  margin-top: 60px;
+}
+
+h1 {
+  color: red;
+  font-size: 60px;
+  font-weight: 500;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+ol {
+
+}
+/*li {
+  display: block;
+  background-color: white;
+}*/
+
+/*li {
+  height: 800px;
+}*/
